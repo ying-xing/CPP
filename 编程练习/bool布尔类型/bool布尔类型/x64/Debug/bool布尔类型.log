@@ -1,0 +1,4 @@
+﻿  bool布尔类型.cpp
+D:\000aaazixue\系统学习\C++\代码\gitee\CPP\编程练习\bool布尔类型\bool布尔类型\bool布尔类型.cpp(18,10): warning C4305: “=”: 从“int”到“bool”截断
+D:\000aaazixue\系统学习\C++\代码\gitee\CPP\编程练习\bool布尔类型\bool布尔类型\bool布尔类型.cpp(22,11): warning C4305: “=”: 从“int”到“bool”截断
+  bool布尔类型.vcxproj -> D:\000aaazixue\系统学习\C++\代码\gitee\CPP\编程练习\bool布尔类型\x64\Debug\bool布尔类型.exe
